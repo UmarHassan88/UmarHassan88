@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmarHassan88
-- 👀 I’m interested in Automation and Manual Testing.
-- 🌱 I’m currently learning commanding the testing frameworks and paving my way for a Test Automation Expert.
+- 👀 I’m skilled and have hands-on experience in Automation and Manual Testing.
+- 🌱 I’m currently commanding the testing frameworks and paving my way for a Test Automation Expert.
 - 📫 Reach me at -> "syedumarhasanzia@gmail.com"
 - ⚡ Fun fact: Throw me to the Wolves and I'll return leading the pack.
 
